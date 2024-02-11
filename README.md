@@ -10,7 +10,7 @@ Below  you can find the original README with some minor changes regarding versio
 
 Installation
 ------------
-To install the script, just download this repository and move the entire “APC_64_40_9″ containing folder to the Ableton Remote Scripts directory. On Windows, it should be at:
+To install the script, just download this repository and move the entire “APC_64_40_11″ containing folder to the Ableton Remote Scripts directory. On Windows, it should be at:
 "MIDI Remote Scripts\”.
 
 On Mac OS X, find the Ableton application file and right click -> “Show Package Contents”. You’ll find the Remote Script folder in
@@ -20,7 +20,7 @@ Once the script is in place, launch Live and open the preferences window. In the
 
 Credits
 ------- 
-APC 64-40 script Originally developed by [Hanz Petrov](http://remotescripts.blogspot.com/p/apc-64-40.html). Updated by [Fabrizio Poce](http://www.fabriziopoce.com/download.html) for Live 9. Final update released [on the Ableton forums](https://forum.ableton.com/viewtopic.php?f=1&t=204713) and lastly combined by [matthewcieplak](https://github.com/matthewcieplak/APC_64_40_9) whom updated it to Ableton 9 
+APC 64-40 script Originally developed by [Hanz Petrov](http://remotescripts.blogspot.com/p/apc-64-40.html). Updated by [Fabrizio Poce](http://www.fabriziopoce.com/download.html) for Live 9. Final update released [on the Ableton forums](https://forum.ableton.com/viewtopic.php?f=1&t=204713) and lastly combined by [matthewcieplak](https://github.com/matthewcieplak/APC_64_40_9)  and made the remote script compatible with Ableton 9.x.x
 
 Uses parts from [Will Marshall's APCAdvanced script](https://github.com/willrjmarshall/AbletonDJTemplateUnsupported) for the VU metering.
 
