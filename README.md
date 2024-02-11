@@ -1,6 +1,10 @@
 # APC_64_40_11
 
-Remote script for the Akai APC40 with Ableton Live 11 based on APC_40_9 Remote script. Bumped the version to Ableton Live 11 by converting the whole codestack from Python 2 to 3
+Remote script for the Akai APC40 with Ableton Live 11 based on APC_40_9 Remote script. Bumped the version to Ableton Live 11 by converting the whole codestack from Python 2 to 3.
+
+Beneath you can find the original README with some minor changes regarding versioning of Ableton.
+
+--
 
 . Adds an 8 8 channel + master VU-meter display on the APC40 grid in mode 8. Useful as a mixing mode or as a makeshift visualizer when playing live, and makes it much easier to know which track you're selecting or adjusting without referring to your monitor.
 
