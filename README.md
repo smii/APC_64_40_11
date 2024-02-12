@@ -6,8 +6,12 @@ Below  you can find the original README with some minor changes regarding versio
 
 Installation
 ------------
+
+
 To install the script, just download this repository and move the entire “APC_64_40_11″ containing folder to the Ableton Remote Scripts directory. On Windows, it should be at:
-"MIDI Remote Scripts\”.
+"MIDI Remote Scripts\”, 
+
+Tip: Default Windows location (c:\programdata\Ableton\Live 11 Suite\Resources\MIDI Remote Scripts)
 
 On Mac OS X, find the Ableton application file and right click -> “Show Package Contents”. You’ll find the Remote Script folder in
 “Contents/App-Resources/MIDI Remote Scripts”.
@@ -19,7 +23,8 @@ Instructions
 
 [Quickstart PDF](APC_64_40_quickstart_guide_rev_1.pdf)\
 [APC64_40 Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html)\
-[StepSequencer Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html)\ 
+[StepSequencer Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html)\
+[Some Features YT Video](https://www.youtube.com/watch?v=7XMuwD9cy20&t=70s)
 
 Enjoy!!!!
 
