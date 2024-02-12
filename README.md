@@ -17,9 +17,9 @@ Once the script is in place, launch Live and open the preferences window. In the
 Instructions
 --------------
 
-[Quickstart PDF](APC_64_40_quickstart_guide_rev_1.pdf)
-[APC64_40 Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html)
-[StepSequencer Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html) 
+[Quickstart PDF](APC_64_40_quickstart_guide_rev_1.pdf)\
+[APC64_40 Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html)\
+[StepSequencer Mappings](http://remotescripts.blogspot.com/p/apc-64-40.html)\ 
 
 Enjoy!!!!
 
