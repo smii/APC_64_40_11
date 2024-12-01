@@ -7,7 +7,6 @@ Below  you can find the original README with some minor changes regarding versio
 Installation
 ------------
 
-
 To install the script, just download this repository and move the entire “APC_64_40_11″ containing folder to the Ableton Remote Scripts directory. On Windows, it should be at:
 "MIDI Remote Scripts\”, 
 
