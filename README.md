@@ -12,6 +12,7 @@ To install the script, just download this repository and move the entire “APC_
 "MIDI Remote Scripts\”, 
 
 Tip: Default Windows location (c:\programdata\Ableton\Live 11 Suite\Resources\MIDI Remote Scripts)
+So as an exampke alle the files in this repository should be visiable in "c:\programdata\Ableton\Live 11 Suite\Resources\MIDI Remote Scripts\APC_64_40_11" when you download the zip  and extract it is possible that the folder name will end with -MAIN.. -MAIN should be removed, otherwise the script wont run.
 
 On Mac OS X, find the Ableton application file and right click -> “Show Package Contents”. You’ll find the Remote Script folder in
 “Contents/App-Resources/MIDI Remote Scripts”.
