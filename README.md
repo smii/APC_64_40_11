@@ -1,4 +1,4 @@
-# APC_64_40_11
+# akai APC40 - Ableton Remote Script
 
 Remote script for the Akai APC40 with Ableton Live 11 (and seems to be working with 12) based on APC_40_9 Remote script. Bumped the remote script version to Ableton Live 11 by converting the whole codestack from Python 2 to 3.
 ![IMAGE](https://cdn.mos.cms.futurecdn.net/70f75473c4327722ce7a9e6d7f31b82d-1200-80.jpg)
